@@ -1,0 +1,6 @@
+@Dynamic_Event___Availability_Scheduler_HostAddress = http://localhost:5255
+
+GET {{Dynamic_Event___Availability_Scheduler_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
